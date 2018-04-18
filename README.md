@@ -1,2 +1,11 @@
-# my-token-b-663-b-7-b-7-ico
-My Token B663B7B7 ICO Smart Contract
+# My Token B663B7B7 ICO Smart Contract
+
+## Common
+
+This is an implementation of the Ethereum ERC20 smart-contract is used by project My Token B663B7B7
+
+<b>Plugins / 3rd party tools:</b>
+
+[https://github.com/OpenZeppelin/zeppelin-solidity/](https://github.com/OpenZeppelin/zeppelin-solidity/)
+
+[https://github.com/TokenMarketNet/ico](https://github.com/TokenMarketNet/ico)
